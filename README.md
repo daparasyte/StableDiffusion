@@ -23,3 +23,7 @@ remove_safety = True
 * DDIM
 * K-LMS, which is the scheduler suggested by [DreamStudio](https://stabilityai.us.auth0.com/u/login?state=hKFo2SA0Y1lYdlhsdXRJU2hKZWV6em5faDN2aEozSXdReUl0YaFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIHJCeDVKZWdRMHE2RkstWkpMVzYwWmVuamREeDJiZ2hLo2NpZNkgS3ZZWkpLU2htVW9PalhwY2xRbEtZVXh1Y0FWZXNsSE4)
 
+## Resources
+* [Paper: Understanding Diffusion Models: A Unified Perspective](https://arxiv.org/abs/2208.11970)
+* [Awesome-diffusion-models](Awesome-diffusion-models)
+* [CompVis - stable diffusion v1.4](https://huggingface.co/CompVis/stable-diffusion-v1-4)
